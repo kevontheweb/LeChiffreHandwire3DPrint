@@ -1,5 +1,7 @@
 # LeChiffreHandwire3DPrint
 
+![photo](chiffre.webp)
+
 A modification of tominabox's Le Chiffre to make the plates suitable for 3d printing and adding standoffs for a pi pico micro controller.
 
 making the plate thicker helps with stiffness for 3d printed plate only (when pcb is not present)
